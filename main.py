@@ -10,3 +10,6 @@
 
 # add another feature code
 # from master direct 
+
+def foo:
+    pass
